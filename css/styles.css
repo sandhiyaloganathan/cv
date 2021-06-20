@@ -1,0 +1,24 @@
+body{background-color:#EAF6F6;}
+hr{
+  border-top: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-color:grey;
+  border-width: 5px;
+  border height: 1px;
+  width:5%;
+}
+img {
+width: 150px;
+margin-right: 20px;
+
+}
+body{
+  color:black;
+}
+h1,h2,h3{
+  color:#28b5b5;}
+table{
+  border-collapse:collapse;
+}
